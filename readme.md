@@ -1,1 +1,3 @@
-Proyecto finalizado
+Se desarrolla un informe integral utilizando Power BI, analizando y detallando con visualizaciones interactivas, el rendimiento de ventas de la empresa AWC. Este informe debe permitir a los usuarios finales comprender profundamente los factores que afectan a las ventas, los costos y la rentabilidad, facilitando la toma de decisiones estratégicas basadas en datos.
+Conclusion:
+En general, la empresa ha demostrado un desempeño robusto tanto a nivel global como en el mercado estadounidense. El enfoque en la calidad del producto, la satisfacción del cliente y la adaptación a las tendencias del mercado ha sido clave para este éxito. Se recomienda continuar fortaleciendo la presencia en línea, explorar nuevas oportunidades de productos y mantener el enfoque en la innovación para sostener el crecimiento a largo plazo.
